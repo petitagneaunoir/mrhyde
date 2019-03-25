@@ -15,13 +15,11 @@ img {
 }
 .column {
   column-count: 2;
-  column-gap: 2px;
+  column-gap: 0px;
   flex-direction: column;
   width: 100%;
 }
-.item {
-  padding-bottom: 2px;
-}
+
 
 /* ABOUT ME STYLES */
 .about-container img {
