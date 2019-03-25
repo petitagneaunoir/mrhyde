@@ -20,10 +20,7 @@ layout: page
       <img src="images/fash_ill5.jpg" alt="fashion illustration of shapes and color">
     </div>
     <div class="item">
-      <img src="images/card1.jpg" alt="xmas card for cushman and wakefield">
-    </div>
-    <div class="item">
-      <img src="images/brochure1.jpg" alt="ESL school brochure">
+      <img src="images/drawing1.jpg" alt="pastel artwork">
     </div>
     <div class="item">
       <img src="images/card2.jpg" alt="digital illustration of my hand">
@@ -32,13 +29,8 @@ layout: page
       <img src="images/fash_ill4.jpg" alt="fashion illustration of a girl's night out">
     </div>
     <div class="item">
-      <img src="images/mobile4.jpg" alt="photography and layout for bespoke denim">
+      <img src="images/music_poster3.jpg" alt="graphic poster for crystal castles">
     </div>
-    <div class="item">
-      <img src="images/music_poster2.jpg" alt="graphic poster for crystal castles">
-    </div>
-
-
 
 
     <div class="item">
@@ -49,6 +41,9 @@ layout: page
     </div>
     <div class="item">
       <img src="images/mobile6.jpg" alt="bespoke denim photography and layout">
+    </div>
+    <div class="item">
+      <img src="images/card1.jpg" alt="xmas card for cushman and wakefield">
     </div>
     <div class="item">
       <img src="images/fash_ill2.jpg" alt="fashion illustration on patterns">
@@ -63,14 +58,15 @@ layout: page
       <img src="images/music_poster1.jpg" alt="music poster for crystal castles">
     </div>
     <div class="item">
-      <img src="images/drawing1.jpg" alt="pastel artwork">
+      <img src="images/mobile4.jpg" alt="photography and layout for bespoke denim">
     </div>
+  </div>
+
+  <div class="item">
+    <img src="images/layout1.jpg" alt="design layout for college magazine">
   </div>
   <div class="item">
     <img src="images/banner_ad6.jpg" alt="fashion header">
-  </div>
-  <div class="item">
-    <img src="images/layout1.jpg" alt="design layout for college magazine">
   </div>
 
 </div>
