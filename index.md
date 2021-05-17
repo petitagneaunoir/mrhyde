@@ -66,7 +66,7 @@ layout: page
     <img src="images/layout1.jpg" alt="design layout for college magazine">
   </div>
   <div class="item">
-    <img src="images/banner_ad6.jpg" alt="fashion header">
+    <img src="images/ba6.jpg" alt="fashion header">
   </div>
 
 </div>
